@@ -10,8 +10,8 @@ O projeto deverá estar com um ambiente de testes configurado acessando o banco 
 - **Spring Data JPA**
 - **Banco de Dados H2** (em memória)
 - **Maven** (para gerenciamento de dependências)
-- ** Jackson **
-- ** Jakart Validation **
+- **Jackson**
+- **Jakart Validation**
 
 ## Entidade Client
 A entidade **Client** foi implementada conforme especificação do desafio.  
@@ -31,7 +31,7 @@ A entidade **Client** foi implementada conforme especificação do desafio.
 Para executar o projeto, siga os seguintes passos:
 1.  **Clone o repositório:**
    ```bash
-    git clone [https://github.com/allanaavila/dsclient.git](https://github.com/allanaavila/dsclient.git)
+    git clone [github](https://github.com/allanaavila/dsclient.git)
    ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
